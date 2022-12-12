@@ -1,0 +1,84 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container-head
+{
+    background-color: aqua;
+    height: 80px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+h3
+{
+    margin-top: 20px;
+}
+.container-top
+{
+    height: 60px;
+    background-color: bisque;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-left: 170px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+#b2
+{
+    width: 150px;
+}
+.container-mid
+{
+    height: 370px;
+}
+.container-footer
+{
+    background-color: blue;
+    height: 90px;
+    margin-top: -20px;
+}
+#f1{
+    margin-left: 800px;
+}
+.f2
+{
+    margin-left: 950px;
+    
+}
+img{
+    width: 200px;
+    height: 100px;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.m1
+{
+    margin-left: 40px;
+    
+}
+.con-e
+{
+    position:absolute;
+    
+    margin-left: 800px;
+    margin-top: -280PX;
+
+}
+.regis-btn{
+    position:absolute;
+    top:380px;
+    right:100px;
+    color:green;
+    border-radius: 100%;
+}
+.back-btn{
+    position:absolute;
+    top:450px;
+    right:100px;
+    color:green;
+    border-radius: 100%;
+}
